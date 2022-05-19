@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waqarali7547
+- 👋 Hi, I’m @WaqarAliBhatti
 - 👀 I’m interested in FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on Several sites
